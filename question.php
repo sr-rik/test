@@ -1,7 +1,3 @@
-<?php
-require_once('data.php');
-?>
-
 <!DOCTYPE html>
 <html>
   <head>
@@ -25,8 +21,7 @@ require_once('data.php');
     <div class="mainback">
       <div class="toi-center">
         <div class="q">
-          <h2>第<?php echo $question1->getId() ?>問</h2>
-            <?php echo $question1->getBody() ?>
+ 
           </div>
       </div>
     </div>
