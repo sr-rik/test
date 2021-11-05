@@ -1,0 +1,23 @@
+@media(max-width:1000px){
+    
+    .center{
+        width: 750px;
+    }
+    
+    .toi-center{
+        width: 750px;  
+    }
+
+}
+
+@media(max-width:670px){
+    
+    .center{
+        width: 550px;
+    }
+
+    .toi-center{
+        width: 550px;  
+    }
+
+}
